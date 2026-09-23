@@ -1,0 +1,6 @@
+{
+  "name": "MediVoice",
+  "description": "Voice-first medicine reader and accessibility assistant for elderly, low-literacy, and visually impaired users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
